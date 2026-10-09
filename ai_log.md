@@ -1,4 +1,4 @@
-bu dosyaya web projesi dersi boyunca hafta hafta yapay zekaya yazdığımız protnları 
+Bu dosyaya web projesi dersi boyunca hafta hafta yapay zekaya yazdığımız protnları 
 ve bize verdiği cevapları ve bu cevaplardan nasıl faydalandığımızı not edeceğiz
 16 ekim görevi
 Ai a sorduğum soru: Ön lisans öğrencisiyim html css biliyorum hoca bize ödev olarak bir site oluşturmamızı istedi ama sitenin içeriği ne olsun bilmiyorum 
