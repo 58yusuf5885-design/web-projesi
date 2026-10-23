@@ -59,11 +59,6 @@ Ana Sayfa: Bileşen kategorileri (Butonlar, Formlar, Kartlar, Navigasyon).
 
 Bileşen Detayı: Sol tarafta butonun/kartın canlı önizlemesi, sağ tarafta kopyalanabilir HTML/CSS kodu.
 
-Hangisini Seçmelisin?
-Form yapıları ve tablolarla hocaya şov yapmak istersen: Otobüs Saatleri veya Eşya Takas.
-
-Modern CSS düzenleri (Flexbox, Grid), kartlar ve hover efektleri kasmak istersen: Snippet Hub veya Oto Bakım.
-
-Senin kafana hangisi daha çok yattı? "Şu konsept iyiymiş" dersen, direkt onun sayfa yapısını, renk paletini ve klasör düzenini beraber planlayalım!
+web projesi yönetimi dersi için bir site yapacağım sitenin içeriği kampüslerin içinde ikinci el bir taksa ağı satış ağı kurmak bunun için bana bir prototip oalcak görsel oluşturur musun
 
 Ve bu cevabı nasıl kullandım:3. Kampüs İkinci El & Eşya Takas Pazarı bu konuda karar verdim
