@@ -108,11 +108,11 @@
                                 <option value="">Tüm Üniversiteler</option>
                                 <option value="İTÜ Ayazağa">İTÜ Ayazağa</option>
                                 <option value="ODTÜ Merkez">ODTÜ Merkez</option>
+                                <option value="Sivas Cumhuriyet">Sivas Cumhuriyet Üniversitesi</option>
+                                <option value="Kırşehir Ahi Evran">Kırşehir Ahi Evran Üniversitesi</option>
                                 <option value="Boğaziçi">Boğaziçi Üniversitesi</option>
                                 <option value="Hacettepe">Hacettepe Üniversitesi</option>
                                 <option value="Bilkent">Bilkent Üniversitesi</option>
-                                <option value="Bilkent">Sivas Cumhuriyet</option>
-                                <option value="Bilkent">Kırşehir Ahi Evran</option>
                             </select>
                         </div>
                     </div>
@@ -247,10 +247,10 @@
                     <select class="w-full border border-gray-300 rounded-lg p-2.5 text-sm focus:ring-2 focus:ring-blue-600 focus:outline-none">
                         <option>İTÜ Ayazağa</option>
                         <option>ODTÜ Merkez</option>
-                        <option>Boğaziçi</option>
-                        <option>Hacettepe</option>
                         <option>Sivas Cumhuriyet</option>
                         <option>Kırşehir Ahi Evran</option>
+                        <option>Boğaziçi</option>
+                        <option>Hacettepe</option>
                     </select>
                 </div>
                 <button type="submit" class="w-full py-3 bg-emerald-500 hover:bg-emerald-600 text-white font-bold rounded-xl transition shadow">
@@ -289,7 +289,7 @@
 
     <!-- JAVASCRIPT LOGIC -->
     <script>
-        // Sample Listings Data (Reflecting user's screenshot exactly)
+        // Sample Listings Data (Reflecting user's screenshot + new universities)
         const listings = [
             {
                 id: 1,
@@ -314,17 +314,35 @@
                 title: "Çalışma Masası Lambası",
                 price: "₺180",
                 isExchange: false,
-                location: "ODTÜ Merkez",
+                location: "Sivas Cumhuriyet",
                 image: "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=600&q=80",
                 liked: false
             },
             {
                 id: 4,
-                title: "Gitar",
+                title: "Akustik Gitar",
                 price: "Takaslık",
                 isExchange: true,
-                location: "ODTÜ Merkez",
+                location: "Kırşehir Ahi Evran",
                 image: "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=600&q=80",
+                liked: false
+            },
+            {
+                id: 5,
+                title: "Mühendislik Hesap Makinesi",
+                price: "Takaslık",
+                isExchange: true,
+                location: "Sivas Cumhuriyet",
+                image: "https://images.unsplash.com/photo-1587145820266-a5951ee6f620?auto=format&fit=crop&w=600&q=80",
+                liked: false
+            },
+            {
+                id: 6,
+                title: "Ergonomik Oyuncu Koltuğu",
+                price: "₺850",
+                isExchange: false,
+                location: "Kırşehir Ahi Evran",
+                image: "https://images.unsplash.com/photo-1580481072645-022f9a6d8de0?auto=format&fit=crop&w=600&q=80",
                 liked: false
             }
         ];
